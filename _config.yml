@@ -19,18 +19,20 @@
 # in the templates via {{ site.myvariable }}.
 
 title: La Table Basse
-email: tablebasse35@proton.me
+#email:
 description: >- # this means to ignore newlines until "baseurl:"
   Groupe d'habitat participatif La Table Basse à Châteaugiron
 domain: tablebasse35.github.io
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://tablebasse35.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tablebasse35
+logo: assets/images/neighborhood.png
 
 # Build settings
-theme: minima
+theme: jekyll-theme-basically-basic
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#search: true
