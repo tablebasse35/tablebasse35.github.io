@@ -15,6 +15,6 @@ permalink: /documents/
 [Pacte d'associé·es (travail en cours)](https://docs.google.com/document/d/11nNFNww84GUM993MQ7iOo1pmdr0tBUsrU7z-7lL1flI/edit?usp=sharing)
 
 
-##Charte financière
+## Charte financière
 
 [Charte financière (travail en cours)](https://docs.google.com/document/d/1bNrEcD8xvDVSixblK1_0ie3ckR4Q8nrdq4OyMWw4ZDY/edit?usp=sharing)
