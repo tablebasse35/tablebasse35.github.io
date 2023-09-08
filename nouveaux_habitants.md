@@ -27,10 +27,10 @@ Nous avions plusieurs contraintes :
 En effet, nous avions de peur qu'en faisant trop de réunions ne restent que des profils similaires, et si nous faisions "priorité par ordre d'arrivée" que nous perdions l'opportunité de construire un groupe divers.
 
 À partir de ces contraintes nous avons abouti au processus ci dessous : 
- - d'abord des visites groupées sur une après-midi, où l'on présente le lieu largement, éventuellement avec une activité collective. 
+ - le foyer intéressé participe d'abord à une visite groupée (sur une après-midi). Y sera présenté le lieu, le projet, et éventuellement on organisera une activité collective.
  - Suite à ça, les foyers qui sont toujours intéressées pourront demander officiellement à rejoindre. 
- - Alors nous organiserons avec les foyers intéressés des rencontres en tête à tête pour rentrer dans les détails, se connaitre.
- - Enfin, les habitant·es se réunissent pour décider collectivement des attributions des différents logements.
+ - Alors nous organiserons avec les foyers intéressés une rencontre, en tête à tête, pour rentrer dans les détails, se connaitre.
+ - Enfin, au terme de ces rencontres avec les différents foyer intéressés, les habitant·es se réunissent pour décider collectivement des attributions des différents logements.
 
 
 ## Étapes clées du processus (et dates)
