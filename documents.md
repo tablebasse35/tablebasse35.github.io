@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Administratif
-permalink: /administratif/
+title: Documents administratifs
+permalink: /documents/
 ---
 
 Lieu

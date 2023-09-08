@@ -4,7 +4,7 @@ title: Présentation
 permalink: /presentation/
 ---
 
-Lieu
-Logements
-Habitants
-"Vision"
+- Lieu
+- Logements
+- Habitants
+- "Vision"
