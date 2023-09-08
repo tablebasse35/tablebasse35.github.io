@@ -9,6 +9,8 @@ permalink: /presentation/
 Nous habitons au [9 La Demerie, à Châteaugiron](https://goo.gl/maps/gmzRQQyLcXrcWyGj7).
 Les 2 bâtiments d'habitations sont situés sur une parcelle d'environ 1ha avec un étang. Nous possédons aussi 2,5ha de terrain agricole de l'autre côté de la route. 
 
+![](../assets/images/vue_satellite.png)
+
 
 ## Les bâtiments
 
