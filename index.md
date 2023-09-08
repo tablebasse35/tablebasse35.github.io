@@ -6,7 +6,10 @@ layout: home
 image: /assets/images/tablebasse.png
 introduction: |
     Bienvenue à vous !
-    Ici on pourra écrire quelques mots d'introduction une fois qu'on saura plus clairement ce que l'on souhaite écrire.
 sub_title: Habitat participatif
 ---
 
+
+Pour nous contacter, envoyez nous un petit mail à 
+
+`table-basse [at] googlegroups.com`

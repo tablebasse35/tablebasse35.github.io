@@ -36,7 +36,7 @@ A la Demerie habitent pour l'instant : 2 hommes, 2 femmes, 4 enfants (entre 2 et
 
 Nous cherchons à compléter notre groupe pour qu'il soit divers. Plus d'info sur la page [Nouveaux habitants](../nouveaux).
 
-## Notre histoire
+## L'histoire de la Table Basse
 
 Anne-Laure a grandi dans une maison partagée par 2 familles entre ses 2 et ses 8 ans.
 Anne-Laure, Laura, Guillaume & Guillaume ont étudié ensemble à Lyon. Ils discutent d'habiter un jour ensemble et découvrent que l'habitat, c'est un vrai truc qui existe !
@@ -46,7 +46,7 @@ Guillaume & Anne-Laure ont vécu pendant 4 ans dans un habitat participatif à C
 2022 est le moment où tout se cristallise :
 - janvier : visite du lieu
 - février : signature de la promesse de vente
-- mai : création de la SCI
+- mai : création de la SCI la Table Basse
 - août : achat et emménagement de Guillaume & Anne-Laure
 
 2023 : 
@@ -59,3 +59,5 @@ Guillaume & Anne-Laure ont vécu pendant 4 ans dans un habitat participatif à C
 - moments partagés
 - diversité
 - résilience
+
+<!-- - "on compte pas" -->
