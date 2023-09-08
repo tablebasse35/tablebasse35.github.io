@@ -4,12 +4,12 @@
 
 layout: home
 image: /assets/images/tablebasse.png
-introduction: |
-    Bienvenue à vous !
+introduction: 
 sub_title: Habitat participatif
 ---
 
+Bienvenue !
 
-Pour nous contacter, envoyez nous un petit mail à 
+Pour plus d'informations, naviguez via le menu (les 3 petits traits en haut à droite).
 
-`table-basse [at] googlegroups.com`
+Pour nous contacter, envoyez nous un petit mail à `table-basse [at] googlegroups.com`
