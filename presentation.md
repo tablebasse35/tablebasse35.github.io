@@ -41,7 +41,7 @@ Nous cherchons à compléter notre groupe pour qu'il soit divers. Plus d'info su
 ## L'histoire de la Table Basse
 
 Anne-Laure a grandi dans une maison partagée par 2 familles entre ses 2 et ses 8 ans.
-Anne-Laure, Laura, Guillaume & Guillaume ont étudié ensemble à Lyon. Ils discutent d'habiter un jour ensemble et découvrent que l'habitat, c'est un vrai truc qui existe !
+Anne-Laure, Laura, Guillaume & Guillaume ont étudié ensemble à Lyon. Ils discutent d'habiter un jour ensemble et découvrent que l'habitat partagé, c'est un vrai truc qui existe !
 Guillaume & Laura ont vécu pendant 1 ans dans un habitat participatif à Nashville, aux États-Unis. 
 Guillaume & Anne-Laure ont vécu pendant 4 ans dans un habitat participatif à Chevaigné.
 
