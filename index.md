@@ -8,8 +8,6 @@ introduction:
 sub_title: Habitat participatif
 ---
 
-Bienvenue !
+Bienvenue ! Nous sommes un jeune projet qui vient de s'installer à Chateaugiron. Sur ce site vous pouver trouver des informations sur nous. Pour plus d'informations, naviguez via le menu (les 3 petits traits en haut à droite).
 
-Pour plus d'informations, naviguez via le menu (les 3 petits traits en haut à droite).
-
-Pour nous contacter, envoyez nous un petit mail à :   `table-basse [at] googlegroups.com`
+Pour nous contacter, vous pouvez nous envoyer un mail à :  `table-basse [at] googlegroups.com`

@@ -24,7 +24,7 @@ Nous avions plusieurs contraintes :
 
 
 
-En effet, nous avions de peur qu'en faisant trop de réunions ne restent que des profils similaires, et si nous faisions "priorité par ordre d'arrivée" que nous perdions l'opportunité de construire un groupe divers.
+En effet, nous craignions qu'en faisant trop de réunions ne restent que des profils similaires, et si nous faisions "priorité par ordre d'arrivée" que nous perdions l'opportunité de construire un groupe divers.
 
 À partir de ces contraintes nous avons abouti au processus ci dessous : 
  - le foyer intéressé participe d'abord à une visite groupée (sur une après-midi). Y sera présenté le lieu, le projet, et éventuellement on organisera une activité collective.
@@ -35,8 +35,8 @@ En effet, nous avions de peur qu'en faisant trop de réunions ne restent que des
 
 ## Étapes clées du processus (et dates)
 
- 1. Accueil collectif sur le lieu (dates à venir, probablement une session autour de la Toussaint et une avant Noël)
+ 1. Accueil collectif sur le lieu (deux dates : 4 novembre et 2 décembre). Si vous avez besoin d'un hébergement pour pouvoir venir à cette journée, contactez nous pour que nous essayons de trouver une solution.
  1. Candidature officielle
- 1. Rencontre entre les habitant·es et chaque foyer intéressé (janvier - mars 2023)
- 1. Commission de recrutement et envoi des réponses (autour de Mars)
+ 1. Rencontre entre les habitant·es et chaque foyer intéressé (avant février 2023)
+ 1. Commission de recrutement et envoi des réponses (au plus tard en Mars)
  1. Intégration
