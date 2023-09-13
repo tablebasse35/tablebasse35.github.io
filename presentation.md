@@ -6,10 +6,10 @@ permalink: /presentation/
 
 ## Le lieu
 
-Nous habitons au [9 La Demerie, à Châteaugiron](https://goo.gl/maps/gmzRQQyLcXrcWyGj7).
+Nous habitons au dans la campagne de Châteaugiron (près de Rennes).
 Les 2 bâtiments d'habitations sont situés sur une parcelle d'environ 1ha avec un étang. Nous possédons aussi 2,5ha de terrain agricole de l'autre côté de la route. 
 
-![](../assets/images/vue_satellite.png)
+<!--![](../assets/images/vue_satellite.png)-->
 
 
 ## Les bâtiments
