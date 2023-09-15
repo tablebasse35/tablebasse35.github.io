@@ -62,6 +62,10 @@ h1 {
 
 h2 {
   @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
+
+  &:not(:first-child) {
+    margin-top: 3rem;
+  }
 }
 
 h3 {

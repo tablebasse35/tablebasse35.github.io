@@ -8,7 +8,7 @@ permalink: /presentation/
 Nous habitons au dans la campagne de Châteaugiron (près de Rennes).
 Les 2 bâtiments d'habitations sont situés sur une parcelle d'environ 1ha avec un étang. Nous possédons aussi 2,5ha de terrain agricole de l'autre côté de la route. 
 
-![](../assets/images/facade.png)
+![](../assets/images/facade.jpg)
 
 
 ## Les bâtiments
@@ -19,7 +19,7 @@ Les bâtiments sont consitués d'un mélange d'espaces à usage privatif et de c
 
 
 Les espaces privatifs :
- - 3 équivalent T4 (salon/cuisine, 2 SDB, 3 chambres)
+ - 3 équivalents T4 (salon/cuisine, 2 SDB, 3 chambres)
  - 1 équivalent T3 (salon/cuisine, 1WC, 1 SDB, 2 chambres)
  - 1 équivalent T2 au rez de chaussé (salon/cuisine, 1 SDB, 1 chambre)
 
