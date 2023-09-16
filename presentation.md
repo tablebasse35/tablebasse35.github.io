@@ -34,18 +34,28 @@ Les espaces communs :
 - et... tout le jardin !
 
 
-## Habitants
+## Les Habitantes et habitants
 A la Demerie habitent pour l'instant : 2 hommes, 2 femmes, 4 enfants (entre 2 et 7 ans), 4 moutons d'Ouessant et un chat. 
+
+Pour nous connaitre, le mieux est de venir nous rencontrer, mais en quelques mots et notre relation à l'habitat participatif :
+Anne-Laure a grandi dans une maison partagée par 2 familles entre ses 2 et ses 8 ans.
+Guillaume, Anne-Laure, Clémentine et Elliot ont vécu pendant 4 ans dans un habitat participatif à Chevaigné.
+
+Guillaume et Laura ont vécu pendant un an dans un habitat participatif à Nashville, aux États-Unis.
+
+Anne-Laure, Laura, Guillaume & Guillaume se sont rencontré à Lyon pendant leurs études. À l'époque déjà ils discutaient d'habiter un jour ensemble !
 
 Nous cherchons à compléter notre groupe avant le printemps, pour qu'il soit divers. Plus d'info sur la page [Nouveaux habitants](../nouveaux).
 
 ## L'histoire de la Table Basse
-Anne-Laure a grandi dans une maison partagée par 2 familles entre ses 2 et ses 8 ans.
-Anne-Laure, Laura, Guillaume & Guillaume ont étudié ensemble à Lyon. Ils discutent d'habiter un jour ensemble et découvrent que l'habitat partagé, c'est un vrai truc qui existe !
-Guillaume & Laura ont vécu pendant 1 ans dans un habitat participatif à Nashville, aux États-Unis. 
-Guillaume & Anne-Laure ont vécu pendant 4 ans dans un habitat participatif à Chevaigné.
 
-2022 est le moment où tout se cristallise :
+En 2017, Guillaume, Laura et un ami ont travaillé à un projet théorique et politique[^1] d'habitat participatif : La Table ("un endroit où on est bien et où on peut faire beaucoup de choses").
+Petit à petit, le groupe "la Table" a grossi. En 2021, Guillaume et Anne-Laure ont rejoint le groupe.
+[^1] Au sens d'avoir une vision commune et des envies de rendre le monde meilleur.
+
+La Table Basse c'est une implémentation de ce projet basée sur certains compromis (par exemple le nombre de logements), et des choix (la région Rennaise).
+
+Ainsi, en 2022, tout se lance :
 - janvier : visite du lieu
 - février : signature de la promesse de vente
 - mai : création de la SCI la Table Basse
