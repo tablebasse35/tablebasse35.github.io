@@ -51,7 +51,7 @@ Nous cherchons à compléter notre groupe avant le printemps. Plus d'info sur la
 
 En 2017, Guillaume, Laura et un ami ont travaillé à un projet théorique et politique[^1] d'habitat participatif : La Table ("un endroit où on est bien et où on peut faire beaucoup de choses").
 Petit à petit, le groupe "la Table" a grossi. En 2021, Guillaume et Anne-Laure ont rejoint le groupe.
-[^1] Au sens d'avoir une vision commune et des envies de rendre le monde meilleur.
+[^1]: Au sens d'avoir une vision commune et des envies de rendre le monde meilleur.
 
 La Table Basse c'est une implémentation de ce projet basée sur certains compromis (par exemple le nombre de logements), et des choix (la région Rennaise).
 
