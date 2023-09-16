@@ -45,7 +45,7 @@ Guillaume et Laura ont vécu pendant un an dans un habitat participatif à Nashv
 
 Anne-Laure, Laura, Guillaume & Guillaume se sont rencontré à Lyon pendant leurs études. À l'époque déjà ils discutaient d'habiter un jour ensemble !
 
-Nous cherchons à compléter notre groupe avant le printemps, pour qu'il soit divers. Plus d'info sur la page [Nouveaux habitants](../nouveaux).
+Nous cherchons à compléter notre groupe avant le printemps. Plus d'info sur la page [Nouveaux habitants](../nouveaux).
 
 ## L'histoire de la Table Basse
 
