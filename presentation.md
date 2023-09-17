@@ -54,7 +54,7 @@ Petit à petit, le groupe "la Table" a grossi. En 2021, Guillaume et Anne-Laure 
 
 [^1]: Au sens d'avoir une vision commune et des envies de rendre le monde meilleur.
 
-La Table Basse c'est une implémentation de ce projet basée sur certains compromis (par exemple le nombre de logements), et des choix (la région Rennaise).
+La Table Basse est une première implémentation de ce projet basée sur certains compromis (par exemple le nombre de logements, le timing), et des choix (la région Rennaise).
 
 Ainsi, en 2022, tout se lance :
 - janvier : visite du lieu
