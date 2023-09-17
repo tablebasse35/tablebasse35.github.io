@@ -17,9 +17,9 @@ Aujourd'hui, nous avons trois logements de disponibles :
 
 
 ## Statut juridique
-Nous sommes une SCI. L'achat est collectif (voir le [Pacte d'associé·es](../documents)), avec un processus de solidarité qui permet que chacun·e puisse devenir propriétaire de son logement quelques soient ses contraintes financières. L'argent ne doit pas être un problème pour rejoindre le groupe.
+Nous sommes une SCI. L'achat est collectif (voir le [Pacte d'associé·es](../documents)), avec un processus de solidarité qui permet que chacun·e puisse devenir propriétaire de son logement. L'argent ne doit pas être un problème pour rejoindre le groupe.
 
-De plus, chaque habitant aura le même pouvoir de décision, quelque soit la part de la SCI qu'il possède et le logement qu'il habite. 
+De plus, chaque habitant·e aura le même pouvoir de décision, quelque soit la part de la SCI qu'il ou elle possède et le logement qu'il ou elle habite. 
 
 
 ## Vision

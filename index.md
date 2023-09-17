@@ -8,7 +8,7 @@ introduction:
 sub_title: Habitat participatif
 ---
 
-Bienvenue ! La table basse un jeune projet d'habitat participatif qui vient de s'installer à Châteaugiron. Sur ce site vous pouver trouver des informations sur notre habitat, le groupe, sa gestions administrative, etc. Pour cela, il vous suffit de naviguer via le menu (les 3 petits traits en haut à droite).
+Bienvenue ! La Table Basse est un jeune projet d'habitat participatif qui vient de s'installer à Châteaugiron. Sur ce site, vous pouvez trouver des informations sur notre habitat, le groupe, sa gestion administrative, etc. Pour cela, il vous suffit de naviguer via le menu (les 3 petits traits en haut à droite).
 
 ## Actualités
 - Portes ouvertes le **samedi 23 septembre de 14h30 à 17h30** dans le cadre des [portes ouvertes HPF 2023](https://www.habitatparticipatif-france.fr/?VisiteDeLaTableBasse)
