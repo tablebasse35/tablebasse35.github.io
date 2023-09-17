@@ -4,7 +4,7 @@ title: Nouveaux habitants
 permalink: /nouveaux/
 ---
 
-Habitat participatif, habitat groupé, habitat partagé, écolieu... quelque que soit le nom qu'on lui donnd, notre habitat décloisonne le logement individuel et équilibre mutualisation et partie "à soi". Nous cherchons de futurs habitants pour constituer notre groupe. 
+Habitat participatif, habitat groupé, habitat partagé, écolieu... quelque soit le nom qu'on lui donne, notre habitat décloisonne le logement individuel et équilibre mutualisation et partie "à soi". Nous cherchons de futur·es habitant·es pour constituer notre groupe. 
 
 ## L'habitation
 Le lieu est composé d'espaces privatifs réservés à chaque foyer (que nous appellons "logements") et d'espaces communs partagés entre tous. Plus d'info sur la page [Présentation](../presentation).
@@ -17,19 +17,19 @@ Aujourd'hui, nous avons trois logements de disponibles :
 
 
 ## Statut juridique
-Nous sommes une SCI. L'achat est collectif (voir le [Pacte d'associé·es](../documents)), avec un processus de solidarité qui permet à ce que chacun et chacune puisse devenir propriétaire de son logement quelques soient leurs contraintes financières. L'argent ne doit pas être un problème pour rejoindre le groupe.
+Nous sommes une SCI. L'achat est collectif (voir le [Pacte d'associé·es](../documents)), avec un processus de solidarité qui permet que chacun·e puisse devenir propriétaire de son logement quelques soient ses contraintes financières. L'argent ne doit pas être un problème pour rejoindre le groupe.
 
-Chaque habitant aura le même pouvoir de décision, quelque soit la part de la SCI qu'il possède et le logement qu'il habite. 
+De plus, chaque habitant aura le même pouvoir de décision, quelque soit la part de la SCI qu'il possède et le logement qu'il habite. 
 
 
 ## Vision
-Nous avons imaginé un lieu qui incite au partage et à la mutualisation, tout en laissant de l'intimité à chaque foyer. Nous souhaitons que les habitant·es partagent des moments de vie commune réguliers (quelques repas communs par semaine, soirée jeux ou cinéma, sorties avec les enfants, jardinage,...) et qu'ainsi se développe entraide et solidarité entre tous. Nous voulons que l'habitat sur le lieu puisse être accessible quelque soit les contraintes financières des foyers et que le groupe reflète une diversité d'âge, de culture, de métiers. Enfin, nous souhaitons avancer vers un lieu résilient et robuste.
+Nous avons imaginé un lieu qui invite au partage et à la mutualisation, tout en laissant de l'intimité à chaque foyer. Nous souhaitons que les habitant·es partagent des moments de vie commune réguliers (quelques repas communs par semaine, soirée jeux ou cinéma, sorties avec les enfants, jardinage,...) et qu'ainsi se développe entraide et solidarité entre toutes et tous. Nous voulons que l'habitat sur le lieu puisse être accessible quelque soit les contraintes financières des foyers et que le groupe reflète une diversité d'âge, de culture, de métiers. Enfin, nous souhaitons avancer vers un lieu résilient et robuste.
 
 
 ## Processus d'accueil de nouveaux habitants
-Pour choisir les nouveaux et nouvelles habitantes nous avons conçu un processus visant à respecter les contraintes de chacune·e :
- - Nos contraintes temporelles à nous (que ça prenne un temps raisonnable y compris si beaucoup de demandes)
- - Les contraintes temporelles des foyers qui souhaitent nous rejoindre (qui ont une vie, pas forcément à Chateaugiron)
+Pour choisir les nouveaux et nouvelles habitant·es, nous avons conçu un processus visant à respecter les contraintes de chacun·e :
+ - Nos contraintes temporelles à nous (que ça prenne un temps raisonnable, y compris si nous recevons beaucoup de demandes)
+ - Les contraintes temporelles des foyers qui souhaitent nous rejoindre (qui ont une vie, peuvent habiter loin)
  - La volonté que le groupe soit composé de profils divers (dans les limites du fait qu'il n'y a que cinq logements)
 
 
@@ -37,10 +37,10 @@ En faisant trop de réunions, nous craignions que ne restent que des profils sim
 
 Nous avons abouti au processus ci-dessous : 
  1. Le foyer intéressé participe d'abord à **une visite groupée**. Y sera présenté le lieu, le projet, et éventuellement sera organisé une activité collective. L'objectif est que chacun·e puisse se faire une idée claire du projet et que nous partagions mutuellement nos attentes.
- 1. Suite à cette visite, les foyers qui sont toujours intéressées pourront **demander officiellement** à rejoindre le groupe. 
+ 1. Suite à cette visite, les foyers qui sont toujours intéressés pourront **demander officiellement** à rejoindre le groupe. 
  1. Alors, nous organiserons avec les foyers intéressés une **rencontre**, en tête à tête, pour mieux se connaître.
  1. Enfin, au terme de ces rencontres avec les différents foyers intéressés, les habitant·es se réunissent pour **décider collectivement** des attributions des différents logements.
- 1. Des rencontres sont organisées avec les personnes choisies pour valider et fédérer le groupe.
+ 1. Des rencontres sont organisées avec les personnes choisies pour **valider et fédérer le groupe**.
 
 
 

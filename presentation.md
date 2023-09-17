@@ -5,7 +5,7 @@ permalink: /presentation/
 ---
 
 ## Le lieu
-Nous habitons au dans la campagne de Châteaugiron (près de Rennes).
+Nous habitons dans la campagne de Châteaugiron (près de Rennes).
 Les 2 bâtiments d'habitations sont situés sur une parcelle d'environ 1ha avec un étang. Nous possédons aussi 2,5ha de terrain agricole de l'autre côté de la route. 
 
 ![](../assets/images/facade.jpg)
@@ -34,14 +34,13 @@ Les espaces communs :
 - et... tout le jardin !
 
 
-## Les Habitantes et habitants
+## Les habitantes et habitants
 A la Demerie habitent pour l'instant : 2 hommes, 2 femmes, 4 enfants (entre 2 et 7 ans), 4 moutons d'Ouessant et un chat. 
 
-Pour nous connaitre, le mieux est de venir nous rencontrer, mais en quelques mots et notre relation à l'habitat participatif :
-Anne-Laure a grandi dans une maison partagée par 2 familles entre ses 2 et ses 8 ans.
-Guillaume, Anne-Laure, Clémentine et Elliot ont vécu pendant 4 ans dans un habitat participatif à Chevaigné.
-
-Guillaume et Laura ont vécu pendant un an dans un habitat participatif à Nashville, aux États-Unis.
+Pour nous connaître, le mieux est de venir nous rencontrer, mais en quelques mots voici notre relation à l'habitat participatif :
+- Anne-Laure a grandi dans une maison partagée par 2 familles entre ses 2 et ses 8 ans.
+- Guillaume, Anne-Laure, Clémentine et Elliot ont vécu pendant 4 ans dans un habitat participatif à Chevaigné.
+- Guillaume et Laura ont vécu pendant un an dans un habitat participatif à Nashville, aux États-Unis.
 
 Anne-Laure, Laura, Guillaume & Guillaume se sont rencontré à Lyon pendant leurs études. À l'époque déjà ils discutaient d'habiter un jour ensemble !
 
@@ -54,7 +53,7 @@ Petit à petit, le groupe "la Table" a grossi. En 2021, Guillaume et Anne-Laure 
 
 [^1]: Au sens d'avoir une vision commune et des envies de rendre le monde meilleur.
 
-La Table Basse est une première implémentation de ce projet basée sur certains compromis (par exemple le nombre de logements, le timing), et des choix (la région Rennaise).
+La Table Basse est une première implémentation de ce projet basée sur certains compromis (par exemple le nombre de logements et la date souhaitée d'emménagement), et des choix (la région Rennaise).
 
 Ainsi, en 2022, tout se lance :
 - janvier : visite du lieu
@@ -67,4 +66,4 @@ Ainsi, en 2022, tout se lance :
 
 
 ## Vision
-Nous avons imaginé un lieu qui invite au partage et à la mutualisation, tout en laissant de l'intimité à chaque foyer. Nous souhaitons que les habitant·es partagent des moments de vie commune réguliers (quelques repas communs par semaine, soirée jeux ou cinéma, sorties avec les enfants, jardinage,...) et qu'ainsi se développe entraide et solidarité entre tous. Nous voulons que l'habitat sur le lieu puisse être accessible quelque soit les contraintes financières des foyers et que le groupe reflète une diversité d'âge, de culture, de métiers. Enfin, nous souhaitons avancer vers un lieu résilient et robuste.
+Nous avons imaginé un lieu qui invite au partage et à la mutualisation, tout en laissant de l'intimité à chaque foyer. Nous souhaitons que les habitant·es partagent des moments de vie commune réguliers (quelques repas communs par semaine, soirée jeux ou cinéma, sorties avec les enfants, jardinage,...) et qu'ainsi se développe entraide et solidarité entre toutes et tous. Nous voulons que l'habitat sur le lieu puisse être accessible quelque soit les contraintes financières des foyers et que le groupe reflète une diversité d'âge, de culture, de métiers. Enfin, nous souhaitons avancer vers un lieu résilient et robuste.
