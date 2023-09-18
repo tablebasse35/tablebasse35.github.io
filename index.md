@@ -16,4 +16,4 @@ Bienvenue ! La Table Basse est un jeune projet d'habitat participatif qui vient 
 
 
 ## Contact
-`table-basse [at] googlegroups.com`
+`table-basse-contact [at] googlegroups.com`
