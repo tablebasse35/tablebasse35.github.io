@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nouveaux habitants
+title: Nouveaux et nouvelles habitantes
 permalink: /nouveaux/
 ---
 
