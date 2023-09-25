@@ -45,7 +45,7 @@ Nous avons abouti au processus ci-dessous :
 
 
 
-## Étapes clées du processus et dates des accueils groupés
+## Étapes clés du processus et dates des accueils groupés
 
  1. Accueil collectif sur le lieu le **samedi 4 novembre** ou le **samedi 2 décembre**. Inscrivez-vous en nous envoyant un email.
  *Si vous avez besoin d'un hébergement pour pouvoir venir à cette journée, contactez nous pour que nous essayons de trouver une solution.*
