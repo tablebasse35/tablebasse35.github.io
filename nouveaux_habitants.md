@@ -47,7 +47,7 @@ Nous avons abouti au processus ci-dessous :
 
 ## Étapes clés du processus et dates des accueils groupés
 
- 1. Accueil collectif sur le lieu le **samedi 4 novembre** ou le **samedi 2 décembre**. Inscrivez-vous en nous envoyant un email.
+ 1. Accueil collectif sur le lieu le **samedi 4 novembre** ou le **samedi 2 décembre**. [Planning prévisionnel](https://docs.google.com/document/d/1O-Rxd629AZ797pOahEdXxmD5xmo2tW07ONqOKu6nfCo/edit?usp=sharing) Inscrivez-vous en nous envoyant un email, précisez quelques informations en particulier la taille du logement qui vous intéresserait.
  *Si vous avez besoin d'un hébergement pour pouvoir venir à cette journée, contactez nous pour que nous essayons de trouver une solution.*
  1. Candidature officielle
  1. Rencontre entre les habitant·es et chaque foyer intéressé (avant février 2023)
