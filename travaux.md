@@ -10,12 +10,12 @@ permalink: /travaux/
 
 ## Les hangars et la chaudière
 
-<a href="https://photos.app.goo.gl/tBV1apgzoFDAKHqt6"><img src="https://lh3.googleusercontent.com/pw/ADCreHdf7iir-mKLbxr8EIKHt3OxPjVMcFaZa9XBbQrAkCUhA3P8J9dSkYt0pRgTK467Eu9eIJswpzKIaYsluiB8EDxBzkHACNB6NnaojLk_2KLtVFo43ZjhiIw7M_yN0MfP03gNGpL9-aewzzn0-__S1PjB=w1252-h939-s-no?authuser=0 =20x" alt="hangars et chaudière" width="200"/></a>
+<a href="https://photos.app.goo.gl/tBV1apgzoFDAKHqt6"><img src="https://lh3.googleusercontent.com/pw/ADCreHdf7iir-mKLbxr8EIKHt3OxPjVMcFaZa9XBbQrAkCUhA3P8J9dSkYt0pRgTK467Eu9eIJswpzKIaYsluiB8EDxBzkHACNB6NnaojLk_2KLtVFo43ZjhiIw7M_yN0MfP03gNGpL9-aewzzn0-__S1PjB=w1252-h939-s-no?authuser=0" alt="hangars et chaudière" width="400"/></a>
 
 
 ## Le T4 jaune (Extension 1 sur le plan)
 
-<a href="https://photos.app.goo.gl/RiodrwjYYn8TwDjB7"><img src="https://lh3.googleusercontent.com/pw/ADCreHd0cHLwtfGx0bckneWR-xXfjLxbGAk9Rhn8tvc8B1Qi0WAg-eZgy0riuoWSi5tU7JV8yIZmdq-g1YZG6EuBBVVXmTcMGA4r4dyy_hUGcu-WmZ_xLFYk3OWkfBbOUa6IYQLYRkD0BlonVbw_ki7S9hbe=w923-h692-s-no?authuser=0" alt="t4 jaune" width="200"/></a>
+<a href="https://photos.app.goo.gl/RiodrwjYYn8TwDjB7"><img src="https://lh3.googleusercontent.com/pw/ADCreHd0cHLwtfGx0bckneWR-xXfjLxbGAk9Rhn8tvc8B1Qi0WAg-eZgy0riuoWSi5tU7JV8yIZmdq-g1YZG6EuBBVVXmTcMGA4r4dyy_hUGcu-WmZ_xLFYk3OWkfBbOUa6IYQLYRkD0BlonVbw_ki7S9hbe=w923-h692-s-no?authuser=0" alt="t4 jaune" width="400"/></a>
 
 ## Le T4 vert (Extension 2 sur le plan)
 
