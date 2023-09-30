@@ -23,7 +23,7 @@ Bientôt...
 
 ### Le T4 rouge (Rénovation)
 
-<a href="https://photos.app.goo.gl/Skx1MXe89JwTZxsm6"><img src="https://photos.app.goo.gl/SchbeQqFxZoUXYZF6" alt="t4 rouge" width="400"/></a>
+<a href="https://photos.app.goo.gl/Skx1MXe89JwTZxsm6"><img src="https://lh3.googleusercontent.com/pw/ADCreHe8UR9MJZ2EJkUNKYfgevLwa5Blm57D_zhk4g2bUzh2oz_B66_WgmrfVnXQjm5rEoW1MxZx0iDEdY160hGPQRlJUPAMVKLQZLnEmXuqsbKQgMRTAF8JyC1jyk1da8LPa1y7ivU67RSQkhB0OlUtGvJ1=w1252-h939-s-no?authuser=0" alt="t4 rouge" width="400"/></a>
 
 
 ### Le T3
