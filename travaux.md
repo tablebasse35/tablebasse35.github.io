@@ -21,7 +21,9 @@ permalink: /travaux/
 
 ### Le T4 vert (Extension 2 sur le plan)
 
-Bientôt...
+*Dernière mise à jour, 21/07/23*
+
+<a href="https://photos.app.goo.gl/MYuLUdkYZsB7sfzL8"><img src="https://lh3.googleusercontent.com/pw/ADCreHcL27TSG_HTgO0dJ9h0pAvzWAJSe5IhmQTreoHQ2JKJ7n1P71Q78ekTHEzy23up5YovdfgsuQC0OPZal01d1ZNFMYi8kQghpSyGR-kjPjq843D82hShSqEQiyjbMC7aZbs4zNq8cyomfqcLZkcLPxO5=w1252-h939-s-no?authuser=0" alt="t4 vert" width="400"/></a>
 
 ### Le T4 rouge (Rénovation)
 *Dernière mise à jour, 19/09/23*
@@ -31,8 +33,21 @@ Bientôt...
 
 ### Le T3
 
-Bientôt...
+*Dernière mise à jour, 04/10/23*
+
+<a href="https://photos.app.goo.gl/DrH7N9MmFwFFPC7ZA"><img src="https://lh3.googleusercontent.com/pw/ADCreHfDr3BlbOwWMC5DGYupzi45h57FlpQUaD9p1Ll3r16_aNjUXWMv6Tb7ZQnOoLTkLmTn3C2-Dc9R92E79a2ySGiPVBw0h2RkjZ3kvAcEg2Z3ZMz2-X3DS4a-3uHg_DpRQFJ8CM1PDuRdJD40Ot_YgCpj=w704-h939-s-no?authuser=0" alt="t3" width="400"/></a>
+
+
 
 ### Un peu de vrac autres
 
-Bientôt...
+
+*Dernière mise à jour, 04/10/23*
+#### La phyto
+
+<a href="https://photos.app.goo.gl/uqQLNfx4S2pNq6H98"><img src="https://lh3.googleusercontent.com/pw/ADCreHeW3GpZqBDT90YPy84JSMqMiMGX0m08VwiQqVasVImktV_0oAA6SPP9fcKtGooK4J_bTzUoCskhDDiswF-SQoD8vRVrhQAJbknKee4I_M8UWDcONumMtrO_yw0ygOhTb8JkfVcabhkO5cPXkMLB4FLA=w1252-h939-s-no?authuser=0" alt="Phyto" width="400"/></a>
+
+<!--#### Du vrac à classer-->
+
+<!--<a href="https://photos.app.goo.gl/DrH7N9MmFwFFPC7ZA"><img src="https://lh3.googleusercontent.com/pw/ADCreHfDr3BlbOwWMC5DGYupzi45h57FlpQUaD9p1Ll3r16_aNjUXWMv6Tb7ZQnOoLTkLmTn3C2-Dc9R92E79a2ySGiPVBw0h2RkjZ3kvAcEg2Z3ZMz2-X3DS4a-3uHg_DpRQFJ8CM1PDuRdJD40Ot_YgCpj=w704-h939-s-no?authuser=0" alt="t3" width="400"/></a>-->
+
