@@ -4,7 +4,7 @@ title: Suivi des travaux
 permalink: /travaux/
 ---
 
-<img src="https://notes.inria.fr/uploads/upload_f2d527babe8ad6ddc5a7cf34dba903db.png" alt="Plan" width="400"/>
+![](https://tablebasse35.github.io/assets/images/plans.png)
 
 ## Pour voir les albums photos, cliquez sur les photos ci-dessous.
 
@@ -33,7 +33,7 @@ permalink: /travaux/
 
 ### Le T3
 
-*Dernière mise à jour, 04/10/23*
+*Dernière mise à jour, 28/09/23*
 
 <a href="https://photos.app.goo.gl/DrH7N9MmFwFFPC7ZA"><img src="https://lh3.googleusercontent.com/pw/ADCreHfDr3BlbOwWMC5DGYupzi45h57FlpQUaD9p1Ll3r16_aNjUXWMv6Tb7ZQnOoLTkLmTn3C2-Dc9R92E79a2ySGiPVBw0h2RkjZ3kvAcEg2Z3ZMz2-X3DS4a-3uHg_DpRQFJ8CM1PDuRdJD40Ot_YgCpj=w704-h939-s-no?authuser=0" alt="t3" width="400"/></a>
 
@@ -44,7 +44,8 @@ permalink: /travaux/
 
 #### La phyto
 
-*Dernière mise à jour, 04/10/23*
+*Dernière mise à jour, 16/07/23*
+
 <a href="https://photos.app.goo.gl/uqQLNfx4S2pNq6H98"><img src="https://lh3.googleusercontent.com/pw/ADCreHeW3GpZqBDT90YPy84JSMqMiMGX0m08VwiQqVasVImktV_0oAA6SPP9fcKtGooK4J_bTzUoCskhDDiswF-SQoD8vRVrhQAJbknKee4I_M8UWDcONumMtrO_yw0ygOhTb8JkfVcabhkO5cPXkMLB4FLA=w1252-h939-s-no?authuser=0" alt="Phyto" width="400"/></a>
 
 <!--#### Du vrac à classer-->
