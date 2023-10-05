@@ -37,6 +37,9 @@ permalink: /travaux/
 
 <a href="https://photos.app.goo.gl/DrH7N9MmFwFFPC7ZA"><img src="https://lh3.googleusercontent.com/pw/ADCreHfDr3BlbOwWMC5DGYupzi45h57FlpQUaD9p1Ll3r16_aNjUXWMv6Tb7ZQnOoLTkLmTn3C2-Dc9R92E79a2ySGiPVBw0h2RkjZ3kvAcEg2Z3ZMz2-X3DS4a-3uHg_DpRQFJ8CM1PDuRdJD40Ot_YgCpj=w704-h939-s-no?authuser=0" alt="t3" width="400"/></a>
 
+### Le T2
+
+Pour l'instant pas trop de travaux dans le T2 puisqu'on y habite!
 
 
 ### Un peu de vrac autres
