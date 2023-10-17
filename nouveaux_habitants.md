@@ -12,7 +12,8 @@ Le lieu est composé d'espaces privatifs réservés à chaque foyer (que nous ap
 Aujourd'hui, nous avons trois logements de disponibles :
  - Un T4 (salon/cuisine, 2 SDB, 3 chambres) ; Dispo Été 2024
  - Un T3 (salon/cuisine, 1WC, 1 SDB, 2 chambres) ; Prévision dispo Automne/Hiver 2024
- - Un T2 au rez de chaussé (salon/cuisine, 1 SDB, 1 chambre) ; Prévision dispo Automne/Hiver 2024
+ - Un T2 au rez de chaussé (salon/cuisine, 1 SDB, 1 chambre) ; Prévision dispo Automne/Hiver 2024 **/!\ Nous refusons les nouvelles candidatures pour le T2 jusqu'à nouvel ordre. Nous avons déjà beaucoup de candidat·es à rencontrer et parmi lesquels choisir... merci de votre intérêt !**
+
 
 
 
