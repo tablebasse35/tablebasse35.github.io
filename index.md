@@ -13,8 +13,5 @@ Bienvenue ! La Table Basse est un jeune projet d'habitat participatif qui vient 
 ## Actualités
 - Nous cherchons de futur·es habitant·es pour constituer notre groupe ! Journées de rencontre dédiées les **samedi 4 novembre** et **samedi 2 décembre** de 14h à 17h30 ([Planning prévisionnel](https://docs.google.com/document/d/1O-Rxd629AZ797pOahEdXxmD5xmo2tW07ONqOKu6nfCo/edit?usp=sharing)). Demandez à participer par email.
 
-**/!\ Nous refusons les nouvelles candidatures pour le T2 jusqu'à nouvel ordre. Nous avons déjà beaucoup de candidats à rencontrer et parmi lesquels choisir... merci de votre intérêt !**
-
-
 ## Contact
 `table-basse-contact [at] googlegroups.com`
