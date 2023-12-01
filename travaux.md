@@ -11,7 +11,7 @@ permalink: /travaux/
 ### Les hangars et la chaudière
 *Dernière mise à jour, 01/12/23*
 
-<a href="https://photos.app.goo.gl/tBV1apgzoFDAKHqt6"><img src="https://lh3.googleusercontent.com/pw/ADCreHcUmQcjKKpXNC8hHUWeTcOW_3Silb44mgW6vE_zUE2kyLHQhf1Yyoztql-9YIttqyHzDw6spTXfvJeilYvNNBCdD980il869Ta2zDNXsHe2vibzz88Sv4zttF2z5kqZUd9OFB34p65kpl0EvQBg2Ohf=w704-h939-s-no" alt="hangars et chaudière" width="400"/></a>
+<a href="https://photos.app.goo.gl/tBV1apgzoFDAKHqt6"><img src="https://lh3.googleusercontent.com/pw/ADCreHeHCh6byildxnH662LgocT_gaYEq6uE1ewiBsWONBifpNprgsxT4m-7VHg37QcXxgWOYHQvXV2j9sLLzpYSwm5Kxtf0itz3RSzdBi-p8n8iN8uHGjH7SK7F8AaKO-zaCnig2nx_zGciO-I8L8POZ4oB=w704-h939-s-no" alt="hangars et chaudière" width="400"/></a>
 
 
 ### Le T4 jaune (Extension 1 sur le plan)
