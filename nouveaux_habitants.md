@@ -9,12 +9,12 @@ Habitat participatif, habitat groupé, habitat partagé, écolieu... quelque soi
 ## L'habitation
 Le lieu est composé d'espaces privatifs réservés à chaque foyer (que nous appellons "logements") et d'espaces communs partagés entre tous. Plus d'info sur la page [Présentation](../presentation).
 
-Aujourd'hui, nous avons trois logements de disponibles :
+Aujourd'hui, nous rencontrons des foyers pour 3 logements :
  - Un T4 (salon/cuisine, 2 SDB, 3 chambres) ; Dispo Été 2024
  - Un T3 (salon/cuisine, 1WC, 1 SDB, 2 chambres) ; Prévision dispo Automne/Hiver 2024
- - Un T2 au rez de chaussé (salon/cuisine, 1 SDB, 1 chambre) ; Prévision dispo Automne/Hiver 2024 **/!\ Nous refusons les nouvelles candidatures pour le T2 jusqu'à nouvel ordre. Nous avons déjà beaucoup de candidat·es à rencontrer et parmi lesquels choisir... merci de votre intérêt !**
+ - Un T2 au rez de chaussé (salon/cuisine, 1 SDB, 1 chambre) ; Prévision dispo Automne/Hiver 2024 
 
-
+Nous ne prenons plus de nouvelles candidatures à ce jour.
 
 
 ## Statut juridique
