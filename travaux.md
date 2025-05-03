@@ -1,10 +1,10 @@
-<!------->
-<!--layout: page-->
-<!--title: Suivi des travaux-->
-<!--permalink: /travaux/-->
-<!------->
+---
+layout: page
+title: Suivi des travaux
+permalink: /travaux/
+---
 
-<!--![](https://tablebasse35.github.io/assets/images/plans.png)-->
+![](https://tablebasse35.github.io/assets/images/plans.png)
 
 <!--## Pour voir les albums photos, cliquez sur les photos ci-dessous.-->
 
