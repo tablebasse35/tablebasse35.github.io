@@ -12,14 +12,15 @@ Les 2 bâtiments d'habitations sont situés sur une parcelle d'environ 1ha avec 
 
 
 ## Les bâtiments
-Les bâtiments sont consitués d'un mélange d'espaces à usage privatif et de communs pour trouver un équilibre entre moments partagés et intimité. Il s'agit de deux anciens bâtiments de ferme. La rénovation du petit bâtiment et la construction des deux extensions est en cours (photos sur la page [Suivi des travaux](../travaux)). Le réaménagement du grand bâtiment se fera dès la fin de cette première phase de travaux.
+Les bâtiments sont consitués d'un mélange d'espaces à usage privatif et de communs pour trouver un équilibre entre moments partagés et intimité. Il s'agit de deux anciens bâtiments de ferme. La rénovation du bâtiment et la construction des deux extensions est en cours (et devrait se terminer l'été 2025).
 
 ![](../assets/images/pcmi1.png)
 ![](../assets/images/pcmi2.png)
 
 
 Les espaces privatifs :
- - 3 équivalents T4 (salon/cuisine, 2 SDB, 3 chambres)
+ - 2 équivalents T4 (salon/cuisine, 2 SDB, 3 chambres)
+ - 1 équivalents T5 (salon/cuisine, 1 SDB, 1WC, 4 chambres)
  - 1 équivalent T3 (salon/cuisine, 1WC, 1 SDB, 2 chambres)
  - 1 équivalent T2 au rez de chaussé (salon/cuisine, 1 SDB, 1 chambre)
 
@@ -35,16 +36,15 @@ Les espaces communs :
 
 
 ## Les habitantes et habitants
-A la Demerie habitent pour l'instant : 2 hommes, 2 femmes, 4 enfants (entre 2 et 7 ans), 4 moutons d'Ouessant et un chat. 
 
-Pour nous connaître, le mieux est de venir nous rencontrer, mais en quelques mots voici notre relation à l'habitat participatif :
-- Anne-Laure a grandi dans une maison partagée par 2 familles entre ses 2 et ses 8 ans.
-- Guillaume, Anne-Laure, Clémentine et Elliot ont vécu pendant 4 ans dans un habitat participatif à Chevaigné.
-- Guillaume et Laura ont vécu pendant un an dans un habitat participatif à Nashville, aux États-Unis.
+Nous sommes 8 adultes et 9 enfants, 4 moutons d'Ouessant et un chat. Pour nous connaître, le mieux est de venir nous rencontrer !
+<!--, mais en quelques mots voici notre relation à l'habitat participatif :-->
+<!--- Anne-Laure a grandi dans une maison partagée par 2 familles entre ses 2 et ses 8 ans.-->
+<!--- Guillaume, Anne-Laure, Clémentine et Elliot ont vécu pendant 4 ans dans un habitat participatif à Chevaigné.-->
+<!--- Guillaume et Laura ont vécu pendant un an dans un habitat participatif à Nashville, aux États-Unis.-->
 
-Anne-Laure, Laura, Guillaume & Guillaume se sont rencontré à Lyon pendant leurs études. À l'époque déjà ils discutaient d'habiter un jour ensemble !
+<!--Anne-Laure, Laura, Guillaume & Guillaume se sont rencontré à Lyon pendant leurs études. À l'époque déjà ils discutaient d'habiter un jour ensemble !-->
 
-Nous cherchons à compléter notre groupe avant le printemps. Plus d'info sur la page [Nouveaux habitants](../nouveaux).
 
 ## L'histoire de la Table Basse
 
@@ -62,8 +62,13 @@ Ainsi, en 2022, tout se lance :
 - août : achat et emménagement de Guillaume & Anne-Laure
 
 2023 : 
-- juillet : début des travaux et emménagement de Guillaume & Laura
+- juillet : début des travaux et emménagement de Guillaume, Laura et leurs enfants
 
+2024 : 
+- juillet : arrivée d'Adrien, ses enfants, et Marie-Claire
+
+2025 : 
+- juillet : arrivée de Léo et Manu
 
 ## Vision
 Nous avons imaginé un lieu qui invite au partage et à la mutualisation, tout en laissant de l'intimité à chaque foyer. Nous souhaitons que les habitant·es partagent des moments de vie commune réguliers (quelques repas communs par semaine, soirée jeux ou cinéma, sorties avec les enfants, jardinage,...) et qu'ainsi se développe entraide et solidarité entre toutes et tous. Nous voulons que l'habitat sur le lieu puisse être accessible quelque soit les contraintes financières des foyers et que le groupe reflète une diversité d'âge, de culture, de métiers. Enfin, nous souhaitons avancer vers un lieu résilient et robuste.
